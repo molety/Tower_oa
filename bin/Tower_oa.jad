@@ -1,0 +1,8 @@
+MIDlet-1: Tower_oa, Tower_oa.png, TowerMIDlet
+MIDlet-Jar-Size: 11572
+MIDlet-Jar-URL: Tower_oa.jar
+MIDlet-Name: Tower_oa
+MIDlet-Vendor: Molecule Factorial
+MIDlet-Version: 0.0.4
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

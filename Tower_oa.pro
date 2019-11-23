@@ -1,0 +1,5 @@
+-libraryjars C:\WTK2.5.1\lib\midpapi20.jar;C:\WTK2.5.1\lib\wma11.jar;C:\WTK2.5.1\lib\cldcapi11.jar
+-injars C:\WTK2.5.1\apps\Tower_oa\bin\Tower_oa.jar
+-outjar C:\DOCUME~1\molety\LOCALS~1\Temp\Tower_oa.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
+-dontusemixedcaseclassnames
