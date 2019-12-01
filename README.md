@@ -5,7 +5,7 @@ Escape from the cursed tower!
 
 ## Operation
 
-- ↑↓←→: Move
+- ↑↓←→: Move / Choose map
 - ○: Go upstairs / downstairs
 
 Open doors with keys.
